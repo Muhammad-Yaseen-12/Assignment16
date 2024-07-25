@@ -1,0 +1,557 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    width: 100%;
+    height: 600px;
+    background-image: url(ggg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    position: relative;
+    top: 100px;
+    border-radius: 20px;
+    height: 300px;
+    width: 570px;
+    background: linear-gradient(#fde8ee, #b2c8f3);
+    margin: 60px auto 0;
+}
+
+.box2 {
+    position: relative;
+    top: 87px;
+    border-radius: 20px;
+    height: 295px;
+    width: 460px;
+    background-color: #df2258;
+    margin: 60px auto 0;
+}
+
+h5 {
+    text-transform: uppercase;
+    position: relative;
+    top: 50px;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin: 0 auto;
+}
+
+h1 {
+    width: auto;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.main {
+    margin: auto;
+    height: 120vh;
+    background: linear-gradient(#a6c8b9, #3c4454);
+
+}
+
+.left {
+    position: relative;
+    top: 240px;
+    left: 300px;
+    width: 20%;
+    padding: 40px 20px 40px 0;
+
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #e72c66;
+}
+
+p {
+    width: 140vh;
+    line-height: 55px;
+    font-size: 35px;
+    margin: 15px 0 0;
+}
+
+.btn1 {
+    color: #ffffff;
+    background-color: #e72c66;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-radius: 50px;
+    font-size: 14px;
+    border-style: none;
+    margin: 35px auto 0 0;
+    padding: 14px 52px 14px 51px;
+}
+
+.mainbox1 {
+    background-color: white;
+    height: 450px;
+    width: 270px;
+    position: relative;
+    bottom: 280px;
+    left: 1250px;
+    border-radius: 20px;
+}
+
+.mainbox1img {
+    width: 60px;
+    position: relative;
+    left: 103px;
+    top: 50px;
+    border-radius: 40px;
+}
+
+.btnfree1 {
+    border: none;
+    text-transform: uppercase;
+    position: relative;
+    top: 80px;
+    left: 20.5px;
+    padding: 5px 31px 6px 30px;
+    background-color: #e72c66;
+    color: #ffffff;
+    border-radius: 50px;
+}
+
+.mainbox1h3 {
+    position: relative;
+    top: 74px;
+    left: 36px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 1.875rem;
+    margin: 25px auto 0;
+}
+
+.mainbox1p {
+    position: relative;
+    top: 70px;
+    left: 24px;
+    line-height: 30px;
+    width: 81%;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainbox1p2 {
+    width: 30%;
+    position: relative;
+    top: 60px;
+    left: 104px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+.mainbox2 {
+    background-color: white;
+    height: 400px;
+    width: 260px;
+    position: relative;
+    bottom: 732px;
+    left: 1550px;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+
+.mainbox2img {
+    width: 60px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    border-radius: 40px;
+}
+
+.btnfree2 {
+    border: none;
+    text-transform: uppercase;
+    position: relative;
+    top: 80px;
+    left: 17.5px;
+    padding: 5px 31px 6px 30px;
+    background-color: #e72c66;
+    color: #ffffff;
+    border-radius: 50px;
+}
+
+.mainbox2h3 {
+    position: relative;
+    top: 74px;
+    left: 33px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 1.875rem;
+    margin: 25px auto 0;
+}
+
+.mainbox2p {
+    position: relative;
+    top: 70px;
+    left: 20px;
+    line-height: 30px;
+    width: 84%;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainbox2p2 {
+    width: 30%;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+.mainbox3 {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 270px;
+    position: relative;
+    bottom: 665px;
+    left: 1250px;
+    border-radius: 20px;
+}
+
+.mainbox3img {
+    width: 60px;
+    position: relative;
+    left: 103px;
+    top: 50px;
+    border-radius: 40px;
+}
+
+.btnfree3 {
+    border: none;
+    text-transform: uppercase;
+    position: relative;
+    top: 80px;
+    left: 20.5px;
+    padding: 5px 31px 6px 30px;
+    background-color: #e72c66;
+    color: #ffffff;
+    border-radius: 50px;
+}
+
+.mainbox3h3 {
+    position: relative;
+    top: 74px;
+    left: 36px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 1.875rem;
+    margin: 25px auto 0;
+}
+
+.mainbox3p {
+    position: relative;
+    top: 70px;
+    left: 24px;
+    line-height: 30px;
+    width: 81%;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainbox3p2 {
+    width: 30%;
+    position: relative;
+    top: 60px;
+    left: 104px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+.mainbox4 {
+    background-color: #ffffff;
+    position: relative;
+    bottom: 1116px;
+    height: 450px;
+    width: 260px;
+
+    left: 1550px;
+    border-radius: 20px;
+}
+
+.mainbox4img {
+    width: 60px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    border-radius: 40px;
+}
+
+.btnfree4 {
+    border: none;
+    text-transform: uppercase;
+    position: relative;
+    top: 80px;
+    left: 17.5px;
+    padding: 5px 31px 6px 30px;
+    background-color: #e72c66;
+    color: #ffffff;
+    border-radius: 50px;
+}
+
+.mainbox4h3 {
+    position: relative;
+    top: 74px;
+    left: 33px;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 1.875rem;
+    margin: 25px auto 0;
+}
+
+.mainbox4p {
+    position: relative;
+    top: 70px;
+    left: 20px;
+    line-height: 30px;
+    width: 84%;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainbox4p2 {
+    width: 30%;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 16px;
+}
+
+@media (max-width: 480px) and (min-width: 320px) {
+    .banner {
+        width: 400%;
+        height: 600px;
+        background-image: url(ggg.jpg);
+        background-size: cover;
+    }
+
+    .main {
+        margin: auto;
+        width: 400%;
+        height: 320vh;
+        background: linear-gradient(#a6c8b9, #3c4454);
+    }
+
+    h2 {
+        width: 42vh;
+        font-size: 50px;
+        font-weight: 700;
+        color: #e72c66;
+    }
+
+    p {
+        width: 100vh;
+        line-height: 95px;
+        font-size: 50px;
+        margin: 15px 0 0;
+    }
+
+    .left {
+        position: relative;
+        top: 90px;
+        left: 350px;
+    }
+
+    .mainbox1 {
+        background-color: white;
+        height: 450px;
+        width: 270px;
+        position: relative;
+        top: 8%;
+        left: 40%;
+        border-radius: 20px;
+    }
+
+    .mainbox2 {
+        background-color: white;
+        height: 450px;
+        width: 270px;
+        position: relative;
+        top: 8.4%;
+        left: 40%;
+        border-radius: 20px;
+        border-radius: 20px;
+    }
+
+    .mainbox2img {
+        width: 60px;
+        position: relative;
+        left: 103px;
+        top: 50px;
+        border-radius: 40px;
+    }
+
+    .btnfree2 {
+        border: none;
+        text-transform: uppercase;
+        position: relative;
+        top: 80px;
+        left: 20.5px;
+        padding: 5px 31px 6px 30px;
+        background-color: #e72c66;
+        color: #ffffff;
+        border-radius: 50px;
+    }
+
+    .mainbox2h3 {
+        position: relative;
+        top: 74px;
+        left: 36px;
+        text-transform: none;
+        letter-spacing: normal;
+        font-size: 1.875rem;
+        margin: 25px auto 0;
+    }
+
+    .mainbox2p {
+        position: relative;
+        top: 70px;
+        left: 24px;
+        line-height: 30px;
+        width: 81%;
+        font-style: italic;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .mainbox2p2 {
+        width: 30%;
+        position: relative;
+        top: 60px;
+        left: 104px;
+        text-decoration: underline;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 16px;
+    }
+
+    .mainbox3 {
+        background-color: rgb(255, 255, 255);
+        height: 450px;
+        width: 270px;
+        position: relative;
+        top: 8.8%;
+        /* bottom: 665px; */
+        left: 40%;
+        border-radius: 20px;
+    }
+
+    .mainbox3img {
+        width: 60px;
+        position: relative;
+        left: 103px;
+        top: 50px;
+        border-radius: 40px;
+    }
+
+    .btnfree3 {
+        border: none;
+        text-transform: uppercase;
+        position: relative;
+        top: 80px;
+        left: 20.5px;
+        padding: 5px 31px 6px 30px;
+        background-color: #e72c66;
+        color: #ffffff;
+        border-radius: 50px;
+    }
+
+    .mainbox3h3 {
+        position: relative;
+        top: 74px;
+        left: 36px;
+        text-transform: none;
+        letter-spacing: normal;
+        font-size: 1.875rem;
+        margin: 25px auto 0;
+    }
+
+    .mainbox3p {
+        position: relative;
+        top: 70px;
+        left: 24px;
+        line-height: 30px;
+        width: 81%;
+        font-style: italic;
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .mainbox3p2 {
+        width: 30%;
+        position: relative;
+        top: 60px;
+        left: 104px;
+        text-decoration: underline;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 16px;
+    }
+
+    .mainbox4 {
+        background-color: #ffffff;
+        position: relative;
+        top: 9.2%;
+        height: 470px;
+        width: 270px;
+        left: 40%;
+        border-radius: 20px;
+    }
+
+
+}
+
+@media (max-width: 768px) and (min-width: 481px) {
+    .banner {
+        width: 383%;
+        height: 600px;
+        background-image: url(ggg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .main {
+        margin: auto;
+        width: 383%;
+        height: 130vh;
+        background: linear-gradient(#a6c8b9, #3c4454);
+    }
+
+}
+@media (max-width: 1720px) and (min-width: 769px) {
+    .banner {
+        width: 239.9%;
+        height: 600px;
+        background-image: url(ggg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .main {
+        margin: auto;
+        width: 239.9%;
+        height: 130vh;
+        background: linear-gradient(#a6c8b9, #3c4454);
+    }
+}
