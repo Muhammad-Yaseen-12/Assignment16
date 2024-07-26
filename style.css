@@ -374,12 +374,13 @@ p {
         height: 380vh;
         background: linear-gradient(#a6c8b9, #3c4454);
     }
+
     h1 {
-    width: auto;
-    font-size: 50px;
-    text-align: center;
-    margin-top: 70px;
-}
+        width: auto;
+        font-size: 50px;
+        text-align: center;
+        margin-top: 70px;
+    }
 
     h2 {
         text-align: center;
@@ -402,6 +403,7 @@ p {
         top: 10px;
         left: 14%;
     }
+
     .btn1 {
         color: #ffffff;
         background-color: #e72c66;
@@ -584,6 +586,7 @@ p {
 }
 
 @media (max-width: 1720px) and (min-width: 769px) {
+
     .banner {
         width: 239.9%;
         height: 600px;
@@ -597,5 +600,17 @@ p {
         width: 239.9%;
         height: 130vh;
         background: linear-gradient(#a6c8b9, #3c4454);
+    }
+}
+
+@media (max-width: 1920px) and (min-width: 1721px) {
+
+    .banner {
+        width: 107%;
+
+    }
+
+    .main {
+        width: 107%;
     }
 }
